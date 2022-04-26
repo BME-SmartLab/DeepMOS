@@ -31,7 +31,9 @@ The training scripts results in JSON files in the checkpoints folder. In order t
 
 If you are using our solution, thank you for citeing the corresponding paper (submitted to Interspeech 2022):
 
-Arxiv.org submission pending
+B. Gyires-Tóth, Cs. Zainkó (2022). Improving Self-Supervised Learning-based MOS Prediction Networks. arXiv preprint arXiv:2204.11030.
+
+URL: https://arxiv.org/abs/2204.11030
 
 ## License
 
